@@ -1,5 +1,5 @@
 <h1 align="center">Heyaa 👋, I'm Ryen</h1>
-<h4 align="center">A passionate individual with curiosity on technological problems, eagerness to resolve and overcome challenges, and the thirst for knowledge to acquire and learn new things.</h4>
+<h4 align="center">A passionate individual with curiosity on technological problems, eagerness to resolve and overcome challenges, and the thirst to acquire and learn new things.</h4>
 
 
 <h3 align="left">Languages and Tools:</h3>
