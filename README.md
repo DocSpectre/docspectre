@@ -1,5 +1,7 @@
 <h1 align="center">Heyaa 👋, I'm Ryen</h1>
-<h4 align="center">A passionate individual with curiosity on technological problems, eagerness to resolve and overcome challenges, and has the thirst to acquire and learn new things. On my spare time, I develop QOL tools, modify games, and contribute to projects that I use. </h4>
+<h4 align="center">A passionate individual with curiosity on technological problems, eagerness to resolve and overcome challenges, and has the thirst to acquire and learn new things.</h4>
+<h4 align="center">I develop QOL tools, modify games, and contribute to the community and projects from video games that I play.</h4>
+
 
 
 <h3 align="left">Languages and Tools:</h3>
