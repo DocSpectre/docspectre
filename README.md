@@ -1,4 +1,4 @@
-<h1 align="center">Heyaa 👋, My mame is Ryen</h1>
+<h1 align="center">Heyaa 👋, My name is Ryen</h1>
 <h4 align="center">A passionate individual with curiosity on technological problems, eagerness to resolve and overcome challenges, and has the thirst to acquire and learn new things.</h4>
 <h4 align="center">I develop QOL tools, modify games, and contribute to the community and projects from video games that I usually play.</h4>
 
